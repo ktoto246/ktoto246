@@ -44,6 +44,9 @@
 
 ### 📊 Статистика и активность
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ktoto246&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktoto246&layout=compact&theme=tokyonight&locale=ru" alt="Top Languages" />
