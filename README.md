@@ -1,20 +1,30 @@
 # Здарова! Я Кирилл Шепелев 👋
 
-### 💻 Junior .NET Developer (Backend & Desktop)
+### 💻 Fullstack .NET Developer (Backend, Desktop & Mobile)
 
-Пишу рабочий и оптимизированный код. Проектирую реляционные базы данных, разрабатываю клиент-серверную архитектуру: от десктопных клиентов на WPF до REST API на ASP.NET Core для веб-сайтов. Никакой воды, только рабочие решения для реальных бизнес-задач. Летом планирую плотно кодить, развивать текущие проекты и выкатывать новые релизы.
+Пишу рабочий и оптимизированный код, проектирую архитектуру с нуля. Не ограничиваюсь одной платформой: разрабатываю REST API на **ASP.NET Core**, собираю клиент-серверные десктоп-приложения на **WPF**, пишу мобильные клиенты на **Flutter/Dart** и делаю веб-интерфейсы. Решаю реальные бизнес-задачи без лишней воды. 
+
+Летом планирую плотно кодить, развивать текущие проекты и выкатывать новые релизы.
+
+---
 
 ### 🛠 Технологический стек
 
-**Бэкенд и Веб:**
+**Бэкенд и Базы данных:**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Десктоп и Базы данных:**
-![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+**Мобильная разработка и Веб:**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Десктоп и Инструменты:**
+![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -22,15 +32,15 @@
 ### 🚀 Мои репозитории
 
 * 📂 **[Course-Projects](https://github.com/ktoto246/Course-Projects)**
-  Мой основной полигон. База проектов на WPF и WinForms с интеграцией EF Core и MS SQL. Тут лежат тяжеловесы: ИС для учета гемокомпонентов, система инвентаризации (Диплом) и логистика Хлебокомбината.
+  Огромная база моих проектов на WPF и WinForms с интеграцией EF Core и MS SQL. Тут лежат тяжеловесы: ИС для учета гемокомпонентов, система инвентаризации (Диплом) и логистика Хлебокомбината.
 * 💬 **[Messenger](https://github.com/ktoto246/Messenger)**
-  Кастомное клиент-серверное приложение для обмена сообщениями. Разрабатываем вдвоем с напарником: пилим фичи, настраиваем архитектуру и взаимодействие.
+  Кастомное клиент-серверное приложение для обмена сообщениями. Разрабатываем вдвоем с напарником. Клиент написан на **Flutter/Dart**, бэкенд и база данных работают через API на C#. 
 * 🌐 **[Sites](https://github.com/ktoto246/Sites)**
-  Веб-разработка и бэкенд. Запушен сайт для дипломного проекта с готовым API. Летом репозиторий будет активно пополняться новыми пет-проектами.
+  Веб-разработка. Запушен сайт для дипломного проекта (фронт + API на ASP.NET Core). Летом репозиторий будет активно пополняться новыми пет-проектами.
 
 ---
 
-### 📊 Статистика и скиллы
+### 📊 Статистика и активность
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ktoto246&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" />
