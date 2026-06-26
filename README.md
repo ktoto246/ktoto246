@@ -1,16 +1,20 @@
 # Здарова! Я Кирилл Шепелев 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=239120&center=false&vCenter=false&width=500&lines=Junior+.NET+%2F+C%23+Developer;WPF+%7C+Web+API+%7C+MS+SQL;Code.+Optimize.+Repeat." alt="Typing SVG" /></a>
+### 💻 Junior .NET Developer (Backend & Desktop)
 
-**3 курс, ИС и программирование**
-Пишу рабочий и оптимизированный код. Фокусируюсь на десктопе, клиент-серверной архитектуре и проектировании баз данных. Никакой воды, только рабочие решения для реальных бизнес-задач. Летом планирую плотно кодить, добивать текущие проекты и выкатывать новые релизы.
+Пишу рабочий и оптимизированный код. Проектирую реляционные базы данных, разрабатываю клиент-серверную архитектуру: от десктопных клиентов на WPF до REST API на ASP.NET Core для веб-сайтов. Никакой воды, только рабочие решения для реальных бизнес-задач. Летом планирую плотно кодить, развивать текущие проекты и выкатывать новые релизы.
 
 ### 🛠 Технологический стек
 
+**Бэкенд и Веб:**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Десктоп и Базы данных:**
+![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -18,13 +22,11 @@
 ### 🚀 Мои репозитории
 
 * 📂 **[Course-Projects](https://github.com/ktoto246/Course-Projects)**
-  Огромная база моих проектов на WPF и WinForms с интеграцией EF Core и MS SQL. Тут лежат как базовые работы для отточки навыков, так и тяжеловесы: Медицинская ИС (учет гемокомпонентов), ИС Хлебокомбината и система инвентаризации для диплома. Мой основной полигон.
-
+  Мой основной полигон. База проектов на WPF и WinForms с интеграцией EF Core и MS SQL. Тут лежат тяжеловесы: ИС для учета гемокомпонентов, система инвентаризации (Диплом) и логистика Хлебокомбината.
 * 💬 **[Messenger](https://github.com/ktoto246/Messenger)**
-  Кастомное клиент-серверное приложение для обмена сообщениями. Разрабатываем этот проект вдвоем с напарником. Активно пилим фичи, настраиваем архитектуру и взаимодействие.
-
+  Кастомное клиент-серверное приложение для обмена сообщениями. Разрабатываем вдвоем с напарником: пилим фичи, настраиваем архитектуру и взаимодействие.
 * 🌐 **[Sites](https://github.com/ktoto246/Sites)**
-  Здесь лежат веб-разработки. Сейчас запушен сайт для дипломного проекта, но репозиторий будет активно пополняться летом новыми решениями и пет-проектами.
+  Веб-разработка и бэкенд. Запушен сайт для дипломного проекта с готовым API. Летом репозиторий будет активно пополняться новыми пет-проектами.
 
 ---
 
