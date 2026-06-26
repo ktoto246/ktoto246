@@ -1,7 +1,8 @@
 # Здарова! Я Кирилл Шепелев 👋
 
-**Junior .NET / C# Developer | 3 курс, ИС и программирование**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=239120&center=false&vCenter=false&width=500&lines=Junior+.NET+%2F+C%23+Developer;WPF+%7C+Web+API+%7C+MS+SQL;Code.+Optimize.+Repeat." alt="Typing SVG" /></a>
 
+**3 курс, ИС и программирование**
 Пишу рабочий и оптимизированный код. Фокусируюсь на десктопе, клиент-серверной архитектуре и проектировании баз данных. Никакой воды, только рабочие решения для реальных бизнес-задач. Летом планирую плотно кодить, добивать текущие проекты и выкатывать новые релизы.
 
 ### 🛠 Технологический стек
@@ -27,10 +28,11 @@
 
 ---
 
-### 📊 Статистика 
+### 📊 Статистика и скиллы
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ktoto246&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktoto246&layout=compact&theme=tokyonight&locale=ru" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
