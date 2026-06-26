@@ -1,6 +1,6 @@
 # Здарова! Я Кирилл Шепелев 👋
 
-### 💻 Fullstack .NET Developer (Backend, Desktop & Mobile)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=239120&center=false&vCenter=false&width=600&lines=Fullstack+.NET+Developer;WPF+%7C+ASP.NET+Core+%7C+Flutter;Code.+Optimize.+Repeat." alt="Typing SVG" /></a>
 
 Пишу рабочий и оптимизированный код, проектирую архитектуру с нуля. Не ограничиваюсь одной платформой: разрабатываю REST API на **ASP.NET Core**, собираю клиент-серверные десктоп-приложения на **WPF**, пишу мобильные клиенты на **Flutter/Dart** и делаю веб-интерфейсы. Решаю реальные бизнес-задачи без лишней воды. 
 
