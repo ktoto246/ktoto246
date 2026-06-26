@@ -45,6 +45,15 @@
 ### 📊 Статистика и активность
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 May 2026 - To: 25 June 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
