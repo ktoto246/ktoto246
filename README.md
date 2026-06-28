@@ -47,11 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2026 - To: 25 June 2026
+From: 07 May 2026 - To: 27 June 2026
 
-Total Time: 0 secs
+Total Time: 5 hrs 32 mins
 
-No activity tracked
+C#         3 hrs 15 mins         >>>>>>>>>>>>>>>----------   58.76 %
+XAML       55 mins               >>>>---------------------   16.80 %
+Markdown   29 mins               >>-----------------------   08.97 %
+SQL        24 mins               >>-----------------------   07.39 %
+Dart       16 mins               >------------------------   04.82 %
 ```
 
 <!--END_SECTION:waka-->
