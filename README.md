@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2026 - To: 14 September 2026
+From: 21 February 2026 - To: 15 September 2026
 
-Total Time: 12 hrs 21 mins
+Total Time: 15 hrs 24 mins
 
-C#           6 hrs 1 min           >>>>>>>>>>>>-------------   48.60 %
-Markdown     1 hr 33 mins          >>>----------------------   12.63 %
-XAML         1 hr 11 mins          >>-----------------------   09.60 %
-Dart         57 mins               >>-----------------------   07.68 %
-JSON         35 mins               >------------------------   04.80 %
+C#           7 hrs 3 mins          >>>>>>>>>>>--------------   45.73 %
+Binary       1 hr 55 mins          >>>----------------------   12.46 %
+Markdown     1 hr 33 mins          >>>----------------------   10.14 %
+XAML         1 hr 11 mins          >>-----------------------   07.70 %
+Dart         57 mins               >>-----------------------   06.16 %
 ```
 
 <!--END_SECTION:waka-->
