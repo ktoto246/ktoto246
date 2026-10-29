@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2026 - To: 26 October 2026
+From: 21 February 2026 - To: 27 October 2026
 
-Total Time: 26 hrs 32 mins
+Total Time: 28 hrs 12 mins
 
-C#           11 hrs 23 mins        >>>>>>>>>>>--------------   42.64 %
-Binary       3 hrs 47 mins         >>>>---------------------   14.18 %
-Markdown     2 hrs 33 mins         >>-----------------------   09.56 %
-CSHTML       2 hrs 12 mins         >>-----------------------   08.24 %
-Text         1 hr 36 mins          >>-----------------------   06.02 %
+C#           11 hrs 54 mins        >>>>>>>>>>---------------   41.94 %
+Binary       4 hrs 19 mins         >>>>---------------------   15.21 %
+Markdown     2 hrs 33 mins         >>-----------------------   09.00 %
+CSHTML       2 hrs 13 mins         >>-----------------------   07.86 %
+Text         1 hr 36 mins          >------------------------   05.67 %
 ```
 
 <!--END_SECTION:waka-->
